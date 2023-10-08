@@ -8,5 +8,7 @@ local --> stage  --> commit --> push
 
 3rd line
 
-****  4th line ***
+****  4th line added in bash ***
+
+@@@@@@ 5th line added in git @@@@
 
