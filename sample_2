@@ -2,4 +2,14 @@ Created sample text file 2
 on 9th Oct 2023 at 3.17pm
 practice the commands alias, objects, loca global
  ************************
+adding the lines -- line 1
+
+check the commands 
+git diff
+fit diff --staged
+git diff --cached
+####################
+
+with commit added the below lines
+
 
