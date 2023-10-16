@@ -4,15 +4,12 @@ practice the commands alias, objects, local global
  ************************
 adding the lines -- line 1
 
-check the commands 
+check the command
 git diff
 fit diff --staged
 git diff --cached
 ####################
 
-with commit added the below lines
-
-HI Hi HI HELLO HI HELLO HI HI HI
- Bye bye bye bye ................................
+Today topic git detached from HEAD
 
 
