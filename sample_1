@@ -10,13 +10,4 @@ local --> stage  --> commit --> push
 
 ****  4th line added in bash ***
 
-@@@@@@ 5th line added in git @@@@
-
-<<<<<<< HEAD
- 6th line
-
- 7th line
-=======
-^^^^^^^ 6th line added in git again  !!!!!!
-
-New line added on 16/Oct/2023
+@@@@@@ 5th line added in git
